@@ -1,4 +1,4 @@
-# 📘 Complete PostgreSQL for Everybody
+# Complete PostgreSQL for Everybody
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 🌟 Introduction
+# Introduction
 This repository contains a complete PostgreSQL learning module designed for Everyone, strictly based on:
 
 ---
@@ -147,8 +147,8 @@ This repository contains a complete PostgreSQL learning module designed for Ever
 ### **8.2 Install Power BI and Integration with SQL**
 ### **8.3 Introduction to Cloud Platforms**
 
-# 📘 Project
+# Project
 
 Course Instructor:
-[Abu Noman Basar](https://www.linkedin.com/in/anbasar/)
+[Abu Noman Basar](https://www.linkedin.com/in/anbasar/) <br>
 A Software Engineer
