@@ -146,9 +146,9 @@ This repository contains a complete PostgreSQL learning module designed for Ever
 ### **8.1 Install Required Library and Integration with SQL**
 ### **8.2 Install Power BI and Integration with SQL**
 ### **8.3 Introduction to Cloud Platforms**
-
+---
 # Project
-
-Course Instructor:
+---
+## Course Instructor:
 [Abu Noman Basar](https://www.linkedin.com/in/anbasar/) <br>
 A Software Engineer
