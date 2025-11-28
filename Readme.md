@@ -4,15 +4,16 @@
 
 ## 📂 Table of Contents
 - [Introduction](#introduction)
-- [Module 1 — Database Fundamentals](#module-1--database-fundamentals)
-- [Module 2 — SQL Essentials](#module-2--sql-essentials)
-- [Module 3 — Filtering & Sorting](#module-3--filtering--sorting)
-- [Module 4 — Aggregation & Grouping](#module-4--aggregation--grouping)
-- [Module 5 — Joins & Relationships](#module-5--joins--relationships)
-- [Module 6 — Data Modification Commands](#module-6--data-modification-commands)
-- [Module 7 — Advanced SQL Topics](#module-7--advanced-sql-topics)
-- [Module 8 — SQL Integration](#module-8--sql-integration)   <!-- FIXED dash -->
-- [Projects](#projects)
+- [Module 1 — Database Fundamentals](#-module-1--database-fundamentals)
+- [Module 2 — SQL Essentials](#-module-2--sql-essentials)
+- [Module 3 — Filtering & Sorting](#-module-3--filtering--sorting)
+- [Module 4 — Aggregation & Grouping](#-module-4--aggregation--grouping)
+- [Module 5 — Joins & Relationships](#-module-5--joins--relationships)
+- [Module 6 — Data Modification Commands](#-module-6--data-modification-commands)
+- [Module 7 — Advanced SQL Topics](#-module-7--advanced-sql-topics)
+- [Module 8 — SQL Integration](#-module-8--sql--pythonpowerbi-integration)
+- [Projects](#project)
+
 
 
 ---
