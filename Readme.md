@@ -11,8 +11,9 @@
 - [Module 5 — Joins & Relationships](#module-5--joins--relationships)
 - [Module 6 — Data Modification Commands](#module-6--data-modification-commands)
 - [Module 7 — Advanced SQL Topics](#module-7--advanced-sql-topics)
-- [Module 8 — SQL Integration](#module-8--sql--python-integration)
+- [Module 8 — SQL Integration](#module-8--sql-integration)   <!-- FIXED dash -->
 - [Projects](#projects)
+
 
 ---
 
