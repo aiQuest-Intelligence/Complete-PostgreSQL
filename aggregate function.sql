@@ -115,7 +115,7 @@ SELECT course, COUNT(*) AS student_count, ROUND(AVG(gpa),2) AS avg_gpa
 FROM students
 GROUP BY course;
 
--- HAVING
+-- HAVING USE
 SELECT course, ROUND(AVG(gpa),2)
 FROM students GROUP BY course
 HAVING AVG(gpa)>3.80;
